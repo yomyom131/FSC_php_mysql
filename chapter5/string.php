@@ -11,7 +11,7 @@
         ?>
         <h2>String length function</h2>
         <?php
-            echo stlen("Hello World");
+            echo strlen("Hello World");
         ?>
     </body>
 </html>
